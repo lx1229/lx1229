@@ -1,18 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Liu%20Xin&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Cat%20Lover&descAlignY=50&descAlign=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Littleyao&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Cat%20Lover&descAlignY=50&descAlign=68" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/lx1229">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
 
 <h2 align="center">👋 Welcome to my GitHub Profile! 👋</h2>
 
